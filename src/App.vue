@@ -1,9 +1,10 @@
 <template>
   <div id="app">
-    <nav>
+    <nav-bar></nav-bar>
+    <!-- <nav>
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
-    </nav>
+    </nav> -->
     <router-view/>
   </div>
 </template>
@@ -29,4 +30,19 @@ nav a {
 nav a.router-link-exact-active {
   color: #42b983;
 }
+
+html.is-rtl * {
+  direction: rtl;
+}
 </style>
+
+<script>
+import Vue from "vue";
+import NavBar from "@/layout/NavBar.vue";
+
+export default Vue.extend({
+  components: {
+    NavBar,
+  },
+});
+</script>

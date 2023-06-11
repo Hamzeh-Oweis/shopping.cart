@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "en": "Facial Cleanser",
+            "ar": "غسول منعش للوجه"
+        },
+        "description": {
+            "en": "A gentle cleanser",
+            "ar": "غسول لطيف ينظف الوجه وينعشه"
+        },
+        "fullDescription": {
+            "en": "Enjoy a refreshing facial cleansing experience with the Refreshing Facial Cleanser. This gentle cleanser deeply cleanses the skin, leaving it smooth and refreshed. It contains soothing natural extracts that calm and moisturize the skin. Use it daily for clean and refreshed skin.",
+            "ar": "استمتع بتجربة تنظيف وجه منعشة مع غسول الوجه المنعش. ينظف هذا الغسول اللطيف البشرة بعمق، مزودًا إياها بالنعومة والانتعاش. يحتوي على مستخلصات طبيعية مهدئة تعمل على تهدئة البشرة وترطيبها. استخدمه يوميًا للحصول على بشرة نظيفة ومنتعشة."
+        },
+        "price": "$19.99"
+    },
+    {
+        "id": 2,
+        "name": {
+            "en": "Moisturizer",
+            "ar": "كريم مرطب للعناية الليلية"
+        },
+        "description": {
+            "en": "Night skin care",
+            "ar": "كريم مرطب يعزز العناية الليلية بالبشرة"
+        },
+        "fullDescription": {
+            "en": "Get nourished and moisturized skin while you sleep with the Night Care Moisturizer. This cream deeply moisturizes the skin overnight, helping to improve its freshness and elasticity. It contains natural moisturizing ingredients that renew and deeply hydrate the skin. Use it daily for healthy and radiant skin in the morning.",
+            "ar": "احصل على بشرة مغذاة ومرطبة أثناء النوم مع كريم العناية الليلية. يعمل هذا الكريم على ترطيب البشرة بعمق وإعادة تجديدها أثناء الليل، مما يساعد على تحسين نضارتها ومرونتها. يحتوي على مكونات مرطبة طبيعية تعمل على تجديد البشرة وترطيبها بعمق. استخدمه يوميًا لتحقيق بشرة صحية ومشرقة في الصباح."
+        },
+        "price": "$34.99"
+    },
+    {
+        "id": 3,
+        "name": {
+            "en": "Facial Mask",
+            "ar": "قناع ينعش ويحيد للوجه"
+        },
+        "description": {
+            "en": "Rejuvenates the face",
+            "ar": "قناع ينعش ويحيد للوجه"
+        },
+        "fullDescription": {
+            "en": "Give your face a refreshing sensation and a more vibrant appearance with the Revitalizing Facial Mask. This mask works to invigorate and renew the skin, improving its smoothness and youthfulness. It contains effective ingredients that soften and nourish the skin, giving it a healthy glow. Use it regularly for a radiant and rejuvenated complexion.",
+            "ar": "امنح وجهك إحساسًا منعشًا ومظهرًا أكثر حيوية مع قناع الوجه المنعش. يعمل هذا القناع على تنشيط البشرة وتجديدها، مما يساهم في تحسين نعومتها وشبابها. يحتوي على مكونات فعالة تنعم وتغذي البشرة، مما يمنحها إشراقًا صحيًا. استخدمه بانتظام لبشرة مشرقة ومتجددة."
+        },
+        "price": "$24.99"
+    },
+    {
+        "id": 4,
+        "name": {
+            "en": "Anti-Aging Serum",
+            "ar": "سيروم مضاد للشيخوخة"
+        },
+        "description": {
+            "en": "Fights signs of aging",
+            "ar": "سيروم يقاوم علامات الشيخوخة"
+        },
+        "fullDescription": {
+            "en": "Protect your skin from the signs of aging with Anti-Aging Serum. This serum works to reduce the appearance of wrinkles and fine lines, while enhancing skin elasticity and freshness. It contains active ingredients that help renew cells and improve the skin's appearance. Use it daily for a youthful and radiant complexion.",
+            "ar": "احمي بشرتك من علامات الشيخوخة مع سيروم مضاد للشيخوخة. يعمل هذا السيروم على تقليل ظهور التجاعيد والخطوط الدقيقة، ويعزز مرونة البشرة ونضارتها. يحتوي على مكونات نشطة تساعد على إعادة تجديد الخلايا وتحسين مظهر البشرة. استخدمه يوميًا للحصول على بشرة شابة ومشرقة."
+        },
+        "price": "$49.99"
+    },
+    {
+        "id": 5,
+        "name": {
+            "en": "Eye Cream",
+            "ar": "كريم مرطب للعيون"
+        },
+        "description": {
+            "en": "A moisturizing cream",
+            "ar": "كريم مرطب للعيون"
+        },
+        "fullDescription": {
+            "en": "Treat the delicate skin around your eyes with the Hydrating Eye Cream. This cream provides intense hydration and nourishment to the eye area, reducing the appearance of dark circles and puffiness. It contains soothing ingredients that help calm and rejuvenate the skin. Use it daily for refreshed and revitalized eyes.",
+            "ar": "عالج بشرة العين الرقيقة باستخدام كريم مرطب للعيون. يوفر هذا الكريم ترطيبًا وتغذيةً مكثفةً لمنطقة العين، مما يقلل من ظهور الهالات السوداء والانتفاخ. يحتوي على مكونات مهدئة تساعد على تهدئة وتجديد البشرة. استخدمه يوميًا لعيون منتعشة ومنشطة."
+        },
+        "price": "$29.99"
+    },
+    {
+        "id": 6,
+        "name": {
+            "en": "Refreshing Cleanser",
+            "ar": "غسول تقشير منعش"
+        },
+        "description": {
+            "en": "A refreshing cleanser",
+            "ar": "غسول منعش يقشر البشرة"
+        },
+        "fullDescription": {
+            "en": "Cleanse your skin and get a refreshing glow with the Exfoliating Refreshing Cleanser. This cleanser gently exfoliates the skin, removing impurities and dead cells, helping to improve the skin's appearance and brighten it. It contains natural exfoliating beads and ingredients that soften and refresh the skin. Use it regularly for clean and radiant skin.",
+            "ar": "نظف بشرتك واحصل على إشراقة منعشة مع غسول التقشير المنعش. يقشر هذا الغسول البشرة بلطف ويزيل الشوائب والخلايا الميتة، مما يساعد على تحسين مظهر البشرة وتفتيحها. يحتوي على حبيبات تقشير طبيعية ومكونات تنعم وتنعش البشرة. استخدمه بانتظام للحصول على بشرة نظيفة ومشرقة."
+        },
+        "price": "$29.99"
+    },
+    {
+        "id": 7,
+        "name": {
+            "en": "Moisturizing Mask",
+            "ar": "ماسك مرطب عميق"
+        },
+        "description": {
+            "en": "A deep moisturization mask",
+            "ar": "قناع يوفر ترطيبًا عميقًا"
+        },
+        "fullDescription": {
+            "en": "Indulge your skin with the Deep Moisturizing Mask. This mask deeply hydrates and nourishes the skin, leaving it soft, smooth, and revitalized. It contains rich moisturizing ingredients that penetrate the skin's layers, providing intense hydration. Use it weekly for a pampering and rejuvenating skincare experience.",
+            "ar": "دلل بشرتك بقناع الترطيب العميق. يرطب هذا القناع البشرة بعمق ويغذيها، مما يجعلها ناعمة ونضرة ومنشطة. يحتوي على مكونات ترطيب غنية تخترق طبقات البشرة وتوفر ترطيبًا مكثفًا. استخدمه أسبوعيًا لتجربة عناية بالبشرة فاخرة ومنشطة."
+        },
+        "price": "$39.99"
+    },
+    {
+        "id": 8,
+        "name": {
+            "en": "Face Serum",
+            "ar": "سيروم مفتح للوجه"
+        },
+        "description": {
+            "en": "A serum that brightens and evens",
+            "ar": "سيروم يفتح لون البشرة ويوحده"
+        },
+        "fullDescription": {
+            "en": "Achieve a brighter and more even complexion with the Brightening Face Serum. This serum works to reduce the appearance of dark spots and discoloration, while promoting a radiant and youthful glow. It contains potent brightening ingredients that target pigmentation issues and improve skin clarity. Use it daily for a luminous and even skin tone.",
+            "ar": "حقق بشرة أكثر إشراقًا وتوحيدًا مع سيروم تفتيح الوجه. يعمل هذا السيروم على تقليل ظهور البقع الداكنة وتغير لون البشرة، مع تعزيز الإشراق والشباب. يحتوي على مكونات مفتحة فعالة تستهدف مشاكل التصبغ وتحسن وضوح البشرة. استخدمه يوميًا للحصول على لون بشرة مشرق وموحد."
+        },
+        "price": "$59.99"
+    },
+    {
+        "id": 9,
+        "name": {
+            "en": "Night Cream",
+            "ar": "كريم ليلي للترميم المكثف"
+        },
+        "description": {
+            "en": "An intensive repair",
+            "ar": "كريم ليلي يوفر ترميماً مكثفاً"
+        },
+        "fullDescription": {
+            "en": "Revitalize your skin overnight with the Intensive Repair Night Cream. This cream works while you sleep to repair and nourish the skin, targeting signs of aging and damage. It contains powerful ingredients that promote cell renewal and improve skin texture. Wake up to smoother, firmer, and more youthful-looking skin with regular use.",
+            "ar": "أحيي بشرتك أثناء الليل مع كريم الترميم المكثف لليلة. يعمل هذا الكريم أثناء نومك على إصلاح البشرة وتغذيتها، مستهدفًا علامات الشيخوخة والتلف. يحتوي على مكونات قوية تعزز تجديد الخلايا وتحسن ملمس البشرة. استيقظ على بشرة أكثر نعومة ومرونة وشبابًا مع الاستخدام المنتظم."
+        },
+        "price": "$44.99"
+    }
+]
